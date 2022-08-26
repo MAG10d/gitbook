@@ -11,4 +11,4 @@
 
 ## 維基 <a href="#wiki" id="wiki"></a>
 
-* [如何編輯該維基](group-1/page-1.md)
+* [Untitled](wiki/untitled.md)
