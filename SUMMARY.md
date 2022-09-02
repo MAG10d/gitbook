@@ -12,6 +12,10 @@
 
 * [模組包介紹](sevtech-ages-of-the-sky/intro.md)
 
+## TerraFirmaCraft
+
+* [模組包介紹](terrafirmacraft/intro.md)
+
 ## 維基 <a href="#wiki" id="wiki"></a>
 
 * [Untitled](wiki/untitled.md)
