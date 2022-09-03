@@ -1,7 +1,8 @@
 # Table of contents
 
-* [各伺服器資訊](README.md)
-* [如何開始遊玩](rlcraft/ru-he-kai-shi/shi-qian-zhun-bei.md)
+* [ℹ 各伺服器資訊](README.md)
+* [▶ 如何開始遊玩](rlcraft/ru-he-kai-shi/shi-qian-zhun-bei.md)
+* [❓ 常見問題](how-to-play-1.md)
 
 ## RLCraft
 
